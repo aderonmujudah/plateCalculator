@@ -48,7 +48,6 @@ function findTheNumberPlate(customerID) {
   } else {
     digitNo = `${rem}`;
   }
-
   //   let digitNo = rem.toString();
   //   if (digitNo.length === 1) {
   //     let digitNo = `00${digitNo}`;
